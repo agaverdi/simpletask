@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2287a3d-64e1-48a9-8b20-8e269194dd10" name="Changes" comment="" />
+    <list default="true" id="a2287a3d-64e1-48a9-8b20-8e269194dd10" name="Changes" comment="Base commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +41,6 @@
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
-      "directory"
     ],
     "DatabaseDriversLRU": [
       "mysql"
@@ -66,11 +65,34 @@
       <option name="presentableId" value="Default" />
       <updated>1666740316266</updated>
       <workItem from="1666740318200" duration="27926000" />
-      <workItem from="1666835523573" duration="354000" />
+      <workItem from="1666835523573" duration="698000" />
     </task>
+    <task id="LOCAL-00001" summary="Base commit">
+      <created>1666836164368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666836164368</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base commit" />
   </component>
 </project>
